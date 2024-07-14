@@ -1,4 +1,4 @@
-# Voiceover Project
+# Voiceover
 
 This project captures voice input, processes it, and reads text back in the captured or custom voice using a Flask web interface.
 
