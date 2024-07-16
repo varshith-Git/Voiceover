@@ -1,6 +1,6 @@
 # Voiceover
 
-This project captures voice input, processes it, and reads text back in the captured or custom voice using a Flask web interface.
+This project creates a custom voice by analyzing a training audio file and synthesizing speech in the same voice.
 
 ## Features
 
